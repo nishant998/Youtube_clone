@@ -1,0 +1,25 @@
+.videoCard {
+  display: flex;
+  flex-direction: column;
+  margin: 1rem 0.2rem;
+}
+.videoCard :hover{
+  cursor: pointer;
+}
+.videoCard img{
+    height: 10rem;
+    width: 15rem;
+}
+
+.videoCard_info{
+  display: flex;
+  margin-left: 0.2rem;
+  margin-top: 0.3rem;
+}
+.videoCard_avatar{
+  margin-right: 0.3rem;
+}
+
+.video_text{
+  font-size: 0.9rem;
+}

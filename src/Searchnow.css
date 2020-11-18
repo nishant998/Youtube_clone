@@ -1,0 +1,11 @@
+.Search_now{
+    flex:0.8 ;
+}
+#filter_icon{
+    margin: 0.2rem 0rem ;
+    fill: gray;
+}
+#filter_icon:hover{
+    cursor: pointer;
+    fill:black;
+}

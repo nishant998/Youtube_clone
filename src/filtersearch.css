@@ -1,0 +1,45 @@
+.filter_search {
+  display: flex;
+  margin-bottom: 1rem;
+}
+.thumbnail img {
+  height: 8rem;
+  width: 11rem;
+}
+.video_info h1 {
+  font-size: 1.3rem;
+  font-weight: 400;
+  margin-left: 0.3rem;
+}
+.views_time {
+  font-size: 0.6rem;
+  font-weight: 100;
+  margin-top: 0.2rem;
+  margin-left: 0.3rem;
+  margin-bottom: 0.2rem;
+  color: gray;
+}
+.channel {
+  display: flex;
+  margin-top: 0.3rem;
+  margin-left: 0.3rem;
+}
+
+.channel h3 {
+  margin-top: 1.22rem;
+  margin-left: 0.4rem;
+  font-size: 1rem;
+  color: gray;
+  font-weight: 500;
+}
+.channel h3:hover {
+  cursor: pointer;
+}
+#avatar1 {
+  height: 1.6rem;
+  width: 1.6rem;
+  margin-top: 1.2rem;
+}
+#avatar1:hover {
+  cursor: pointer;
+}

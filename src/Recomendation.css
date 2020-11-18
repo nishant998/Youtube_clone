@@ -1,0 +1,16 @@
+#recom_sec{
+    flex: 0.8;
+    margin-top: 2rem;
+    padding-left: 1rem;
+    background-color: rgb(243, 239, 239);
+    height: 100vhs;
+}
+#reco_text:hover{
+    cursor:text;
+    background-color: rgb(243, 239, 239);
+}
+.recommendation__videos{
+    display: flex;
+    flex-wrap: wrap;
+
+}
